@@ -1,0 +1,5 @@
+APP_URL=http://localhost:9000
+MAP_SERVICE_API_KEY=<api_key>
+Map API Key: Tidak diperlukan. Menggunakan Leaflet.js yang bersifat open-source tanpa API key.
+
+https://yogisepdu.github.io/app-story-dicoding/#/
