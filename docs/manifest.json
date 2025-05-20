@@ -1,0 +1,89 @@
+{
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "name": "App Story - Yosep",
+  "short_name": "appStory",
+  "description": "App Story adalah aplikasi yang memungkinkan pengguna untuk berbagi cerita dan pengalaman secara mudah dan interaktif. Dengan aplikasi ini, setiap cerita dapat tersampaikan dengan baik, menciptakan komunitas yang lebih dekat dan saling memahami melalui narasi personal dan visual yang menarik.",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#d97706",
+  "icons": [
+    {
+      "src": "images/icons/icon-x144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/maskable-icon-x48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/icons/maskable-icon-x96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/icons/maskable-icon-x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/icons/maskable-icon-x384.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/icons/maskable-icon-x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshots/app-story_001.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/app-story_002.png",
+      "sizes": "1920x1043",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "images/screenshots/app-story_003.png",
+      "sizes": "1080x2280",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "images/screenshots/app-story_004.png",
+      "sizes": "1080x2280",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Buat Cerita",
+      "short_name": "Cerita",
+      "description": "Membuat cerita baru.",
+      "url": "/#/add-story",
+      "icons": [
+        {
+          "src": "images/shortcuts/add.png",
+          "sizes": "512x512"
+        }
+      ]
+    }
+  ]
+}
